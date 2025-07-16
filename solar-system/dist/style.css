@@ -1891,7 +1891,7 @@ body .solar_systm .planet.mars .deimos {
   left: 900px;
   top: -100px;
   transform: scale(0.45);
-  background: url("https://www.jpl.nasa.gov/spaceimages/images/largesize/PIA07782_hires.jpg");
+  background: url("src/assets/images/Mars_Deimos_Moon.png");
   z-index: -1;
   box-shadow: 0px -30px 30px 10px black inset;
 }
