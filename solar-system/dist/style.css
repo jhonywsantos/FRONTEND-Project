@@ -193,31 +193,31 @@ body label.menu:hover h2, body label.menu:hover h3 {
   opacity: 1;
 }
 body label.menu.mercury h2 .pip {
-  background: #E8927C;
+  background: #7a28138f;
 }
 body label.menu.venus h2 .pip {
-  background: #b45d15;
+  background: #c77a08;
 }
 body label.menu.earth h2 .pip {
-  background: #26daaa;
+  background: #2656da;
 }
 body label.menu.mars h2 .pip {
-  background: #e55f45;
+  background: #c72d07;
 }
 body label.menu.jupiter h2 .pip {
-  background: orange;
+  background: rgb(241, 112, 253);
 }
 body label.menu.saturn h2 .pip {
-  background: #b29d81;
+  background: #77d;
 }
 body label.menu.uranus h2 .pip {
-  background: #8dcdd8;
+  background: #3be0bd;
 }
 body label.menu.neptune h2 .pip {
-  background: #4f83e2;
+  background: #00aeff;
 }
 body label.menu.pluto h2 .pip {
-  background: #FF8732;
+  background: #e6a16f86;
 }
 body label.menu .preview {
   width: 30px;
@@ -437,31 +437,31 @@ body input[type=radio][name=planet].planet1:checked + label + div .solar_systm:n
   opacity: -6;
 }
 body input[type=radio][name=planet].planet1:checked + label.mercury > .info h3 {
-  color: #E8927C;
+  color: #7A28138F;
 }
 body input[type=radio][name=planet].planet1:checked + label.venus > .info h3 {
-  color: #b45d15;
+  color: #C77A08;
 }
 body input[type=radio][name=planet].planet1:checked + label.earth > .info h3 {
-  color: #26daaa;
+  color: #2656da;
 }
 body input[type=radio][name=planet].planet1:checked + label.mars > .info h3 {
-  color: #e55f45;
+  color: #c72d07;
 }
 body input[type=radio][name=planet].planet1:checked + label.jupiter > .info h3 {
-  color: orange;
+  color: rgb(241, 112, 253);
 }
 body input[type=radio][name=planet].planet1:checked + label.saturn > .info h3 {
-  color: #b29d81;
+  color: #77d;
 }
 body input[type=radio][name=planet].planet1:checked + label.uranus > .info h3 {
-  color: #8dcdd8;
+  color: #3be0bd;
 }
 body input[type=radio][name=planet].planet1:checked + label.neptune > .info h3 {
-  color: #4f83e2;
+  color: #00aeff;
 }
 body input[type=radio][name=planet].planet1:checked + label.pluto > .info h3 {
-  color: #FF8732;
+  color: #e6a16f86;
 }
 body input[type=radio][name=planet].planet1:checked + label {
   opacity: 1;
