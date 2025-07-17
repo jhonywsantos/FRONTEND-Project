@@ -69,6 +69,7 @@ npx serve .  # ou apenas clique duas vezes no arquivo index.html
 FRONTEND-Project/
 ├─ assets/
 │   ├─ img/              # Imagens e elementos gráficos
+│   └─ info_g/           # Imagens para README
 │   └─ js/               # Scripts de interatividade e responsividade
 │      └─ style.css      # Estilos principais
 ├─ index.html            # Página inicial
