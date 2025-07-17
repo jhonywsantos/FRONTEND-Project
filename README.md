@@ -24,11 +24,11 @@ O **Solar System Explorer** é uma aplicação front-end desenvolvida com foco e
 ## 🛠️ Tecnologias Utilizadas
 
 ### 🔧 Core
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Haml](https://img.shields.io/badge/-Haml-ECE2C6?style=flat-square&logo=haml&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Haml](https://img.shields.io/badge/-Haml-ECE2C6?style=for-the-badge&logo=haml&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### ✨ Destaques Técnicos
 
