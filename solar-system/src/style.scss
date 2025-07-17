@@ -766,7 +766,7 @@ body {
                     }
 
                     & .deimos {
-                        @include makeMoon(900px, -100px, 0.45, 'src/assets/images/Mars_Deimos_Moon.png');
+                        @include makeMoon(900px, -100px, 0.45, 'https://raw.githubusercontent.com/jhonywsantos/FRONTEND-Project/main/solar-system/src/assets/images/Mars_Deimos_Moon.png');
                     }
 
                     & .trajectory.d {
