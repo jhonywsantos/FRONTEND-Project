@@ -1,28 +1,26 @@
-# 🪐 Solar System Explorer
+# 🪐 Explorador do Sistema Solar
 
 Exploração interativa e imersiva do Sistema Solar com representações 3D realistas, efeitos visuais cativantes e conteúdo educativo.
 
-![Preview](https://github.com/jhonywsantos/FRONTEND-Project/blob/main/preview.png?raw=true)  
+![Preview](https://raw.githubusercontent.com/jhonywsantos/FRONTEND-Project/main/solar-system/src/assets/info_g/MainScreen.png)
 *Imersão 3D no Sistema Solar via navegador*
+
+🔗 [Acesse a demonstração online](https://jhonywsantos.github.io/FRONTEND-Project/)  📦 [Código-fonte no GitHub](https://github.com/jhonywsantos/FRONTEND-Project)
 
 ---
 
 ## 🌌 Sobre o Projeto
 
-O **Solar System Explorer** é uma aplicação front-end desenvolvida com foco em interatividade, educação e design espacial responsivo. A proposta oferece:
+O **Explorador do Sistema Solar** é uma aplicação front-end desenvolvida com foco em interatividade, educação e design espacial responsivo. A proposta oferece:
 
 - Representações realistas em 3D dos planetas
 - Animações suaves com transições dinâmicas
 - Curiosidades, histórias mitológicas e dados científicos sobre os corpos celestes
 - Experiência adaptada para diferentes dispositivos (mobile, tablet, desktop)
 
-🔗 [Acesse a demonstração online](https://jhonywsantos.github.io/FRONTEND-Project/)  
-📦 [Código-fonte no GitHub](https://github.com/jhonywsantos/FRONTEND-Project)
-
 ---
 
 ## 🛠️ Tecnologias Utilizadas
-
 ### 🔧 Core
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -31,16 +29,15 @@ O **Solar System Explorer** é uma aplicação front-end desenvolvida com foco e
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### ✨ Destaques Técnicos
-
 - **CSS 3D Transforms** para simulações espaciais
 - **GSAP ou Anime.js** para animações (assumido pelos efeitos visuais)
 - **Intersection Observer API** para detecção de rolagem e animações ativadas dinamicamente
-
 ---
 ### 🪐 Experiência 3D
 - Animações orbitais em torno do sol
 - Efeitos de sombra e iluminação realistas
 - Transições suaves entre planetas e luas
+![Exemplo](https://raw.githubusercontent.com/jhonywsantos/FRONTEND-Project/main/solar-system/src/assets/info_g/InfoScreen.png)
 
 ### 📚 Conteúdo Educativo
 - Seções “Leia mais” com:
